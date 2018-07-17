@@ -1345,12 +1345,8 @@
   </div>
   <footer class="app-footer">
     <div>
-      <a href="https://coreui.io">CoreUI</a>
-      <span>&copy; 2018 creativeLabs.</span>
-    </div>
-    <div class="ml-auto">
-      <span>Powered by</span>
-      <a href="https://coreui.io">CoreUI</a>
+      <a href="https://www.headwaters.co.jp/">株式会社KJ</a>
+      <span>&copy; 2018 keijiHashimoto.</span>
     </div>
   </footer>
   <!-- CoreUI and necessary plugins-->
